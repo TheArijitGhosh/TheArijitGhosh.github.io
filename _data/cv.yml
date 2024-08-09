@@ -5,39 +5,39 @@
       value: Arijit Ghosh
     - name: Designation
       value: Visiting Fellow (Postdoctoral)
-     name: Affiliation
+    - name: Affiliation
       value: National Heart, Lung, and Blood Institute
     - name: Advisor
-      value: Dr. Susan T. Harbison
+      value: Susan T. Harbison
 
 - title: Education
   type: time_table
   contents:
     - title: Ph.D.
       institution: Jawaharlal Nehru Center for Advanced Scientific Research, Bengaluru, India
-      year: 2016 - 2022
+      year: 2022
       description:
         - A Tale of Two Chronotypes - Behavioral and Genetic Characterization of Chronotype Divergence in Drosophila melanogaster
         
-    - title: BSc-MSc dual degreec(Integrated MSc) in Life Sciences
+    - title: Integrated BSc-Msc
       institution: National Institute of Science Education and Research, Bhubaneswar, India
       year: 2011 - 2016
       description:
-        - Life Sciences with focus on bioinformatics and cell biology
-
+        - Life Sciences, with focus on bioinformatics and cell biology
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2024
+  - year: 2024
       items: 
-        - Best oral presentation at the Johns Hopkins Sleep and Circadian Research Day
+        - Best oral presentation award at the Johns Hopkins Sleep and Circadian Research Day
           - Johns Hopkins University, Baltimore, MD
     - year: 2020 - 2024
       items: 
         - SRBR Merit Award
-          - Society for Research on Biological Rhythms, USA
-    - year: 2020
-      items: 
-        - SRBR Global Diversity Award
-          - Society for Research on Biological Rhythms, USA
+          - Society for Research on Biological Rhythms
+
+- title: Other Interests
+  type: list
+  contents:
+    - Philosophy and History of Science, Poetry, Politics
