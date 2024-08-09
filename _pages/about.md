@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.nhlbi.nih.gov'>NHLBI, NIH</a>. Building 10, Room 6N206/6N214. arijit.ghosh2@nih.gov.
+subtitle: <a href='[https://www.nhlbi.nih.gov](https://www.nhlbi.nih.gov/science/systems-genetics)'>Postdoctoral fellow at SBC, NHLBI, NIH</a>.
 
 profile:
   align: right
