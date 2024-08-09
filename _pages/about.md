@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Postdoctoral fellow. <a href='https://www.nhlbi.nih.gov/science/systems-genetics'> National Heart, Lung, and Blood Institute</a>.
 
