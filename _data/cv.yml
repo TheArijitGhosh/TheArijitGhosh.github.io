@@ -25,18 +25,4 @@
       description:
         - Life Sciences with focus on bioinformatics and cell biology
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2024
-      items: 
-        - Best oral presentation at the Johns Hopkins Sleep and Circadian Research Day
-          - Johns Hopkins University, Baltimore, MD
-    - year: 2020 - 2024
-      items: 
-        - SRBR Merit Award
-          - Society for Research on Biological Rhythms, USA
-    - year: 2020
-      items: 
-        - SRBR Global Diversity Award
-          - Society for Research on Biological Rhythms, USA
+
