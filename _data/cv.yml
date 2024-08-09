@@ -2,48 +2,42 @@
   type: map
   contents:
     - name: Full Name
-      value: Abhilash Lakshman
+      value: Arijit Ghosh
     - name: Designation
-      value: Postdoctoral Research Associate
-    - name: Affiliation
-      value: CUNY Advanced Science Research Center
+      value: Visiting Fellow (Postdoctoral)
+     name: Affiliation
+      value: National Heart, Lung, and Blood Institute
     - name: Advisor
-      value: Prof. Orie Shafer
+      value: Dr. Susan T. Harbison
 
 - title: Education
   type: time_table
   contents:
     - title: Ph.D.
       institution: Jawaharlal Nehru Center for Advanced Scientific Research, Bengaluru, India
-      year: 2021
+      year: 2016 - 2022
       description:
-        - Circadian organization and mechanisms of entrainment in populations of Drosophila melanogaster selected for divergent timing of eclosion.
+        - A Tale of Two Chronotypes - Behavioral and Genetic Characterization of Chronotype Divergence in Drosophila melanogaster
         
-    - title: M.S.
-      institution: Jawaharlal Nehru Center for Advanced Scientific Research, Bengaluru, India
-      year: 2015
+    - title: BSc-MSc dual degreec(Integrated MSc) in Life Sciences
+      institution: National Institute of Science Education and Research, Bhubaneswar, India
+      year: 2011 - 2016
       description:
-        - Evolutionary and Organismal Biology
-        
-    - title: B.Sc. (Hons.)
-      institution: Asutosh College, University of Calcutta, Calcutta, India
-      year: 2012
-      description:
-        - Zoology
+        - Life Sciences with focus on bioinformatics and cell biology
+
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2023
+    - year: 2024
       items: 
-        - Young Scientist Medal
-          - Indian National Science Academy
-    - year: 2022
+        - Best oral presentation at the Johns Hopkins Sleep and Circadian Research Day
+          - Johns Hopkins University, Baltimore, MD
+    - year: 2020 - 2024
       items: 
-        - Prof. C.N.R. Rao Medal (Best Ph.D. Thesis in Biological Sciences)
-          - Jawaharlal Nehru Center for Advanced Scientific Research, India
-
-- title: Other Interests
-  type: list
-  contents:
-    - Philosophy and History of Science, Poetry, Politics
+        - SRBR Merit Award
+          - Society for Research on Biological Rhythms, USA
+    - year: 2020
+      items: 
+        - SRBR Global Diversity Award
+          - Society for Research on Biological Rhythms, USA
