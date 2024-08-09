@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='[https://www.nhlbi.nih.gov](https://www.nhlbi.nih.gov/science/systems-genetics)'>Postdoctoral fellow at SBC, NHLBI, NIH</a>.
+subtitle: Postdoctoral fellow. <a href='https://www.nhlbi.nih.gov/science/systems-genetics'> National Heart, Lung, and Blood Institute</a>.
 
 profile:
   align: right
