@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching, mentorship, and service
+title: teaching
 description: Soon to come.
 nav: true
 nav_order: 6
