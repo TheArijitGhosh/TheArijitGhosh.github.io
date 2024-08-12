@@ -7,7 +7,7 @@ subtitle: Postdoctoral fellow. <a href='https://www.nhlbi.nih.gov/science/system
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   # more_info: >
    # <p>+1 301-496-7940</p>
    # <p>Building 10, 10 Center Drive</p>
