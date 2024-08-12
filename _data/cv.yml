@@ -17,7 +17,7 @@
       institution: Jawaharlal Nehru Center for Advanced Scientific Research, Bengaluru, India
       year: 2022
       description:
-        - A Tale of Two Chronotypes - Behavioral and Genetic Characterization of Chronotype Divergence in Drosophila melanogaster
+        - A Tale of Two Chronotypes - Behavioral and Genetic Characterization of Chronotype Divergence in *Drosophila melanogaster*
         
     - title: Integrated BSc-Msc
       institution: National Institute of Science Education and Research, Bhubaneswar, India
@@ -25,14 +25,41 @@
       description:
         - Life Sciences, with focus on bioinformatics and cell biology
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Visiting postdoctoral fellow
+      institution: Laboratory of Systems Genetics, National Heart, Lung, and Blood Institute
+      year: 2022 - Now
+      description:
+        - Developed hidden Markov model based frameworks to classify fly sleep into distinct states
+        - Developed algorithms to extract circadian time series parameters from large datasets
+        - Conducted multiple genome wide association studies of circadian clock and sleep related traits in the *Drosophila* Genetic Reference Panel
+        - Contributed to a book chapter on “The genetics of sleep in *Drosophila*”, and currently writing multiple research articles on original research work
+        
+    - title: Graduate research fellow
+      institution: Chronobiology and Behavioral Neurogenetics Laboratory, Neuroscience Unit, JNCASR
+      year: 2016 - 2022
+      description:
+        - Conducted original research on classical chronobiology, sleep, and population genomics of circadian phases and published research articles
+        - Published open source apps for high throughout automated analysis of circadian rhythms and sleep
+        - Contributed to organizing multiple academic conference and science outreach activities on and off campus
+        
+    - title: Masters dissertation research fellow
+      institution: Goswami Lab, School of Biological Sciences, NISER
+      year: 2014 - 2016
+      description:
+        - Established primary bone cell, immune cell, and stem cell cultures in the lab
+        - Established novel molecular dynamics simulation routines in the lab
+        - Established novel histological and imaging-focused assays in the lab for bone tissue engineering
+        - Worked collaboratively with other lab members on different bioinformatics projects
+
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2020, 2024
       items: 
-        - SRBR Merit Award
-          - Society for Research on Biological Rhythms
+        - SRBR Merit Award from the Society for Research on Biological Rhythms
     - year: 2024
       items: 
-        - Best oral presentation at the Johns Hopkins Sleep and Circadian Research Day
-          - Johns Hopkins University, Baltimore, MD
+        - Best oral presentation at the Johns Hopkins Sleep and Circadian Research Day from the Johns Hopkins University, Baltimore, MD
