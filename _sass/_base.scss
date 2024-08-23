@@ -17,9 +17,10 @@ li,
 span,
 strong {
   color: var(--global-text-color);
-  font-family: "Arvo", serif;
+  font-family: "Aleo", serif;
+  font-optical-sizing: auto;
   // font-family: "Source Sans 3", sans-serif;
-  font-weight: 400;
+  // font-weight: 400;
   // font-family: "Outfit", sans-serif;
   // font-family: "Barlow", sans-serif;
 }
